@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer from Kenya who likes experimenting</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndiritumichael" alt="ndiritumichael" /></a> </p>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose,Docker**
 
-- 💬 Ask me about **Android Mods and rooting,Android development**
+- 💬 Ask me about **Android Mods and rooting,Android development,Go**
 
 - 📫 How to reach me **ndiritumichael5@gmail.com**
 
