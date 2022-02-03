@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndiritumichael&show_icons=true&locale=en" alt="ndiritumichael" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndiritumichael&" alt="ndiritumichael" /></p>
+
+[![Spotify](https://novatorem-jtfdwttq0-ndiritumichael.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
