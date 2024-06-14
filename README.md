@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/ndiritu_michael" target="blank"><img src="https://img.shields.io/twitter/follow/ndiritu_michael?logo=twitter&style=for-the-badge" alt="ndiritu_michael" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose,SwiftUI**
 
 - 💬 Ask me about **Android Mods and rooting,Android development,Go**
 
