@@ -1,13 +1,23 @@
 <h3 align="center">I write code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndiritumichael" alt="ndiritumichael" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ndiritu_michael" target="blank"><img src="https://img.shields.io/twitter/follow/ndiritu_michael?logo=twitter&style=for-the-badge" alt="ndiritu_michael" /></a> </p>
+ 💬 Ask me about
+- Android development
+- Android Mods and rooting
+- Go
+- Kotlin Multiplatform
+- iOS development
 
+ 📫 How to reach me
+ -  **ndiritumichael5@gmail.com**
+ -  <p align="left"> <a href="https://twitter.com/ndiritu_michael" target="blank"><img src="https://img.shields.io/twitter/follow/ndiritu_michael?logo=twitter&style=for-the-badge" alt="ndiritu_michael" /></a> </p>
 
-- 💬 Ask me about **Android Mods and rooting,Android development,Go**
+View my Resume [here](https://docs.google.com/document/d/1Dkuu0xEleX6S4YuW1wfPCLjmmuoBPSP0ZkD1gFtK35M/pub)
 
-- 📫 How to reach me **ndiritumichael5@gmail.com**
+Checkout my Apps on Playstore
+
+  * [Kenya Ussd Codes](https://www.google.com/url?q=https://play.google.com/store/apps/details?id%3Dcom.devmike.kenya_ussd_codes&sa=D&source=editors&ust=1724845362935726&usg=AOvVaw0QsVcilzsmI0W0nh5W3-yV)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
