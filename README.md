@@ -1,4 +1,4 @@
-<h3 align="center">I solve problems with code</h3>
+<h3 align="center">I build mobile apps by day and break insecure apps by night</h3>
 
 
  💬 Ask me about
