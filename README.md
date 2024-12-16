@@ -1,4 +1,4 @@
-<h3 align="center">I build mobile apps by day and break insecure apps by night</h3>
+<h3 align="center">building mobile apps by day breaking insecure apps by night.</h3>
 
 
  💬 Ask me about
